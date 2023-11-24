@@ -1,5 +1,5 @@
 ## Check out notebooks on 👇👇
-# Python-Beginner-To-Advanced-Course
+# Python-Beginner-To-Expert-Course
 # Top Class Material
 
 # Follow me on 👇👇
